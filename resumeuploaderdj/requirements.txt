@@ -1,3 +1,6 @@
+nltk
+seaborn
+matplotlib
 asgiref==3.3.1
 Django==3.1.7
 django-unused-media==0.2.2
